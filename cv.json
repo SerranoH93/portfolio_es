@@ -6,7 +6,7 @@
         "email": "alejandro_0793@hotmail.com",
         "phone": "+527461064677",
         "url": "https://midu.dev",
-        "summary": "Con un fuerte interés en el desarrollo de front-end y back-end. Apasionado por la tecnología y el diseño de experiencias digitales intuitivas y atractivas para el usuario. Durante mi carrera universitaria, me especialicé en el diseño y construcción de sistemas mecatrónicos, lo que me brindó habilidades en análisis de datos, programación y diseño mecánico. Además, tengo experiencia en tecnologías front-end como HTML, CSS, JavaScript, Typescript y React.",
+        "summary": "Desarrollador Fullstack con experiencia en la construcción de aplicaciones web para procesamiento de datos y cálculo de nómina, participando en tareas tanto de backend como de frontend. Experiencia en desarrollo con Node.js, consumo de APIs y manejo de bases de datos con SQL, así como en la construcción de interfaces de usuario con React y Next.js. Interesado en el desarrollo de soluciones eficientes y escalables, con atención a la calidad del ódigo y la experiencia del usuario. Experiencia colaborando en equipos de desarrollo, articipando en despliegues y trabajando con distintos ambientes. Busco seguir desarrollándome como desarrollador Fullstack, aportando valor en proyectos reales y fortaleciendo mis habilidades técnicas.",
         "location": {
             "address": "",
             "postalCode": "73816",
@@ -34,12 +34,23 @@
     },
     "work": [
         {
+            "name": "Neitek Group",
+            "position": "Fullstack Developer y QA Specialist",
+            "url": "Desarrollador",
+            "startDate": "2024-08-26",
+            "endDate": "2026-03-15",
+            "summary": "Desarrollo de sistema de compensación para nómina en Elektra (Grupo Salinas). Implementación de lógica de negocio en Varicent ICM. Optimización de consultas SQL y creación de vistas. Gestión de despliegues en TEST, QA y PROD. Validación con pruebas de regresión. Consumo de APIs y visualización de datos. Mejora de interfaces enfocadas en usabilidad.",
+            "highlights": [
+                "Started the company"
+            ]
+        },
+        {
             "name": "SwaplyAr",
             "position": "Fullstack Developer y QA Specialist",
             "url": "https://www.swaplyar.com/",
-            "startDate": "2023-07-17",
-            "endDate": null,
-            "summary": " Migración de aplicaciones completas con experiencia en frontend y backend, utilizando tecnologías modernas como Next.js, TypeScript y Tailwind CSS. Implementación de pruebas manuales para garantizar la calidad del software. Trabajo en equipo utilizando metodologías ágiles como Scrum para asegurar entregas puntuales y eficientes.",
+            "startDate": "2024-01-17",
+            "endDate": "2024-08-26",
+            "summary": " Lideré un equipo de 3 personas en desarrollo y migración de aplicaciones. Desarrollo con Next.js, TypeScript y Tailwind.Pruebas manuales para aseguramiento de calidad. Trabajo bajo metodología Scrum.",
             "highlights": [
                 "Started the company"
             ]
@@ -48,20 +59,9 @@
             "name": "Cibercafé Imix",
             "position": "Frontend Developer",
             "url": "https://www.facebook.com/CiberImix/",
-            "startDate": "2022-10-01",
-            "endDate": "2023-07-17",
-            "summary": "Gestión de personal, así como su capacitación. Elaboración de planificación de compras, cortes de caja, ejecución de horarios, todo esto de ambas sucursales que se encuentran en operación.",
-            "highlights": [
-                "Started the company"
-            ]
-        },
-        {
-            "name": "Stahl Werke",
-            "position": "Dibujante",
-            "url": "http://norm.com.mx/",
-            "startDate": "2018-02-12",
-            "endDate": "2019-04-01",
-            "summary": "Elaboración de planos para producción de piezas mecanicas, elaboración de calendarios de entrega de piezas de doblez láser, maquinado CNC, pavonado. Así como revisión de calidad de piezas finalizadas.",
+            "startDate": "2023-10-01",
+            "endDate": "2024-01-17",
+            "summary": "Desarrollo de aplicaciones con React, HTML, CSS y JavaScript. Diseño y optimización de interfaces. Incremento de tráfico web en 20%.",
             "highlights": [
                 "Started the company"
             ]
